@@ -3,7 +3,7 @@ import Navbar from "../components/Navbar";
 import Home from "../pages/Home";
 import CategoryPage from "../pages/CategoryPage";
 import Cart from "../pages/Cart";
-import SearchPage from "../pages/SearchPage";
+import SearchPage from "../pages/searchPage";
 import UserForm from "../pages/UserForm";
 import ProductDetails from "../pages/ProductDetails";
 import Error404 from "../error404/Error404";
