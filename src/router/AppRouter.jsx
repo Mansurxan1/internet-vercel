@@ -52,5 +52,5 @@ const AppRouter = ({ products, categoryProducts, onSort }) => {
     </Provider>
   );
 };
-
+ 
 export default AppRouter;
